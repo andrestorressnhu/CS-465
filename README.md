@@ -18,7 +18,7 @@ In a full-stack application, methods correspond to HTTP verbs such as GET, POST,
 
 To test API endpoints, I used tools like Postman for manual testing of requests and ensuring correct responses. Additionally, I used automated tests in Angular to verify the UI components’ proper interaction with the backend. Testing with authentication involved generating and incorporating tokens into requests to simulate authenticated user flows. This facilitated an understanding of how authorization influences data retrieval and validation in practical applications.
 
-## *Reflection*
+#### *Reflection*
 
 This course has greatly advanced my professional objectives by strengthening my understanding of full-stack development workflows. I have acquired knowledge in designing backend APIs, constructing responsive frontend applications, and connecting NoSQL databases with Express. Furthermore, I have developed skills in effectively building RESTful APIs, constructing SPAs with Angular, structuring projects for maintainability, utilizing JSON for frontend-backend integration, and performing API testing with security considerations.
 
